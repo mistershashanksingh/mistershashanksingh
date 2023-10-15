@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ##
 <h1 align="center">👋 Hey, I’m Shashank Singh !</h1>
 
@@ -28,30 +25,24 @@
  
 </ul>
 
-<!---
+<!--
 **mistershashanksingh/mistershashanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You can click the Preview link to take a look at your changes.
 Here are some ideas to get you started:
-
- ...
--  ...
 - 💞️ I’m looking to collaborate on ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate with ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
 - ⚡ Fun fact: ...
-mistershashanksingh/mistershashanksingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
 [![An image of @mistershashanksingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mistershashanksingh)](https://holopin.io/@mistershashanksingh)
 
 ## 📈Github Stats
 <p align="center">
 <a href="https://github.com/mistershashanksingh">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mistershashanksingh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mistershashanksingh&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mistershashanksingh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mistershashanksingh&layout=compact&langs_count=10&theme=react"/>
 </a>
 </p>
 
