@@ -1,6 +1,9 @@
 ##
 <h1 align="center">👋 Hey, I’m Shashank Singh !</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0883ef&center=true&vCenter=true&width=1200&height=100&lines=Code+Architect%2C+open+source+enthusiast+and+hardcore+learner)](https://git.io/typing-svg)
+
+
 - 👀 I’m interested in mlops, cloud, quantum computing and automotive technology 
 
 - 🔭 I’m currently working on DSA(java) ML(mlops)
