@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mistershashanksingh&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mistershashanksingh&layout=compact&langs_count=10&theme=react"/>
   <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mistershashanksingh&theme=react&mode=weekly" alt="GitHub Streak"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mistershashanksingh&style=flatsquare&color=blue">
 </a>
 </p>
 
