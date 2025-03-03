@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0883ef&center=true&vCenter=true&width=1200&height=100&lines=Code+Architect%2C+open+source+enthusiast+and+hardcore+learner)](https://git.io/typing-svg)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/mistershashanksingh/mistershashanksingh/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mistershashanksingh/mistershashanksingh/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 👀 I’m interested in mlops, cloud, quantum computing and automotive technology 
 
