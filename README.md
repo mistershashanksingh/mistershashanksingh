@@ -14,14 +14,14 @@
 - 😄 Pronouns: He/His/Him
 
 - 📫 How to reach me
-
-   * <a href="https://www.linkedin.com/in/mistershashanksingh/"><img src="https://img.shields.io/badge/-mistershashanksingh-0e76a8?style=flat&amp;labelColor=fff&amp;logo=linkedin&amp;logoColor=0e76a8&amp;link=https://www.linkedin.com/in/mistershashanksingh/" alt="linkedin Badge"></a>
   
-   * <a href="https://x.com/mistershashanks"><img src="https://img.shields.io/badge/-mistershashanks-262525?style=flat&amp;labelColor=fff&amp;logo=x&amp;logoColor=262525&amp;link=https://twitter.com/mistershashanks" alt="x Badge"></a>
+  <a href="https://www.x.com/mistershashanks"><img src="https://img.shields.io/badge/-X-262525?style=flat;labelColor=fff&amp;link=https://twitter.com/mistershashanks" alt="x Badge"></a>
   
-   * <a href="mailto:mistershashanksingh@gmail.com"><img src="https://img.shields.io/badge/-mistershashanksingh-c71610?style=flat&amp;labelColor=fff&amp;logo=gmail&amp;logoColor=c0392b&amp;link=mailto:mistershashanksingh@gmail.com" alt="Mail Badge"></a>
+    <a href="mailto:mistershashanksingh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=flat;labelColor=fff&amp;logoColor=c0392b&amp;link=mailto:mistershashanksingh@gmail.com" alt="Mail Badge"></a>
+   
+    <a href="https://www.linkedin.com/in/mistershashanksingh/"><img src="https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat;labelColor=fff&amp;link=https://www.linkedin.com/in/mistershashanksingh/" alt="linkedin Badge"></a>
   
-   * <a href="https://www.instagram.com/mistershashanksingh"><img src="https://img.shields.io/badge/-mistershashanksingh-d62976?style=flat&amp;labelColor=fff&amp;logo=instagram&amp;logoColor=E4405F&amp;link=https://www.instagram.com/mistershashanksingh" alt="instagram Badge"></a>
+    <a href="https://www.instagram.com/mistershashanksingh"><img src="https://img.shields.io/badge/-INSTAGRAM-d62976?style=flat;labelColor=fff&amp;logoColor=E4405F&amp;link=https://www.instagram.com/mistershashanksingh" alt="instagram Badge"></a>
 
 <!--
 **mistershashanksingh/mistershashanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
