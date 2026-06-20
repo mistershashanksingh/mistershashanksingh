@@ -11,18 +11,38 @@
 
 -  🌱 I’m currently learning As a grad student refining my edge of Mathematical skills(really to visualizing quantum and ml functionality)
 
-- 😄 Pronouns: He/His/Him
+##
+>                                📫 How to reach me
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.x.com/mistershashanks" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" height="44" width="44" /><br />
+        <img src="https://img.shields.io/badge/X-000000?style=plastic&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:mistershashanksingh@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="44" width="44" /><br />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/mistershashanksingh/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="44" width="44" /><br />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.instagram.com/mistershashanksingh" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="44" width="44" /><br />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me
-  
-  <a href="https://www.x.com/mistershashanks"><img src="https://img.shields.io/badge/-X-262525?style=flat;labelColor=fff&amp;link=https://twitter.com/mistershashanks" alt="x Badge"></a>
-  
-    <a href="mailto:mistershashanksingh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=flat;labelColor=fff&amp;logoColor=c0392b&amp;link=mailto:mistershashanksingh@gmail.com" alt="Mail Badge"></a>
-   
-    <a href="https://www.linkedin.com/in/mistershashanksingh/"><img src="https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat;labelColor=fff&amp;link=https://www.linkedin.com/in/mistershashanksingh/" alt="linkedin Badge"></a>
-  
-    <a href="https://www.instagram.com/mistershashanksingh"><img src="https://img.shields.io/badge/-INSTAGRAM-d62976?style=flat;labelColor=fff&amp;logoColor=E4405F&amp;link=https://www.instagram.com/mistershashanksingh" alt="instagram Badge"></a>
-
+##
 <!--
 **mistershashanksingh/mistershashanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
