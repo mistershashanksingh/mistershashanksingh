@@ -11,8 +11,11 @@
 
 -  🌱 I’m currently learning As a grad student refining my edge of Mathematical skills(really to visualizing quantum and ml functionality)
 
+
+<p align="center">📫 <b>How to reach me</b></p>
+
 ##
->                                📫 How to reach me
+                                              
 <table align="center">
   <tr>
     <td align="center" width="120">
